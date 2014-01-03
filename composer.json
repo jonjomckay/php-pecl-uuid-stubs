@@ -1,0 +1,18 @@
+{
+	"name": "jonjomckay/php-pecl-uuid-stubs",
+	"type": "library",
+	"description": "Stubs for the PHP PECL UUID extension",
+	"keywords": ["pecl", "uuid", "stubs"],
+	"license": "MIT",
+	"require": {
+		"php": ">=5.1.0"
+	},
+	"autoload": {
+		"psr-0": {
+			"": "src"
+		},
+		"files": [
+			"src/Uuid.php"
+		]
+	}
+}
