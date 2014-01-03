@@ -12,7 +12,7 @@
 			"": "src"
 		},
 		"files": [
-			"src/Uuid.php"
+			"src/UUID.php"
 		]
 	}
 }
